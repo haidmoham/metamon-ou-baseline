@@ -1,0 +1,14 @@
+vendor/
+.venv*/
+.cache/
+results/
+__pycache__/
+*.pyc
+*.pt
+*.pth
+*.safetensors
+*.onnx
+.env
+.env.*
+!.env.example
+*.log

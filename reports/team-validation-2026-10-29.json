@@ -1,0 +1,41 @@
+{
+  "format": "gen9ou",
+  "showdown_commit": "d62d3a39878f7ef1c6e1cfbd84e8feb2ce7a9fdd",
+  "teams_revision": "bff785c80a06273faee1c675d368948f5dd65d44",
+  "source_archive_sha256": "ab8ede8d06e0247b9c3b7385823c3fcb5b2d5615162072736197005a90770f11",
+  "accepted": {
+    "team_10.gen9ou_team": "21bc1ea7db06300c5e09e1e5b879674ec724d620cf7e44a202d80a399af09f2c",
+    "team_11.gen9ou_team": "019d255db45ddb5a54aff175aaad33fa585be7b58696b12eb746ac0f6b28fc59",
+    "team_12.gen9ou_team": "b63fceeed8ce3f6995f2e09fa725ede1d960eb5e1bbf8c09e5c9fb8911fd3904",
+    "team_13.gen9ou_team": "6e6aa4e4a153be479ca19e71dae9079d36640bccf83648dbf9f0da07d4571752",
+    "team_14.gen9ou_team": "3b10427c967dff33dbc3c0c20248e708e823c554a851a56b2fbe6e49a27303cf",
+    "team_15.gen9ou_team": "8aaba793ebf4e492d13f8c454572d0b4635fedb533146672a31d359cee1b72f3",
+    "team_5.gen9ou_team": "56b0ff0140f9fbdd651dadc1acb17e94da645b0720a48f53d4c52cdafd9c468d",
+    "team_6.gen9ou_team": "385607ae7f3d1f71330244b49b4eb50e309d06d9b3f8b0dbe4b46decbb95c584",
+    "team_7.gen9ou_team": "f6412fd4f28b36166ad25896467315ad78a1173bee77ba3515747751019182e9",
+    "team_8.gen9ou_team": "00701ea70daf51547a1a1d3854fa7e8b84424c12873a21ae4cd54d812f8872e8",
+    "team_9.gen9ou_team": "46f53728d3b4d4aab81e7b481f15911d0f89a1da4f16548d289902c1d9d07b4b"
+  },
+  "rejected": [
+    {
+      "team": "team_0.gen9ou_team",
+      "errors": "Kyurem's move Tera Blast is banned."
+    },
+    {
+      "team": "team_1.gen9ou_team",
+      "errors": "Ceruledge's move Tera Blast is banned."
+    },
+    {
+      "team": "team_2.gen9ou_team",
+      "errors": "Dragonite's move Tera Blast is banned."
+    },
+    {
+      "team": "team_3.gen9ou_team",
+      "errors": "Kingambit's move Tera Blast is banned."
+    },
+    {
+      "team": "team_4.gen9ou_team",
+      "errors": "Enamorus's move Tera Blast is banned."
+    }
+  ]
+}

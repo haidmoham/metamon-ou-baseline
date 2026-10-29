@@ -1,0 +1,51 @@
+{
+  "date_utc": "2026-10-29",
+  "scope": "cloud preparation only; user PC off; local play deferred",
+  "environment": {
+    "os": "Linux x86_64",
+    "python": "3.12.14",
+    "node": "24.22.1",
+    "torch": "2.6.0+cpu",
+    "cuda_available": false,
+    "flash_attn": null
+  },
+  "checks": {
+    "pinned_upstream_checkouts": "passed",
+    "locked_python_dependency_install": "passed",
+    "uv_pip_check": "passed (89 packages compatible)",
+    "upstream_imports": "passed",
+    "npm_ci_and_showdown_build": "passed",
+    "showdown_tcp_startup": "passed",
+    "showdown_loopback_proc_net_check": "passed 127.0.0.1:8000; REPL disabled; server stopped after check",
+    "model_sha256": "passed, matches Hub LFS SHA-256",
+    "model_weights_only_cpu_deserialization": "passed; 642 tensor keys; 142832563 tensor elements",
+    "team_legality": "16 validated, 11 accepted, 5 rejected by upstream validator",
+    "unit_protocol_and_synthetic_adapter_tests": "11 passed",
+    "compileall": "passed",
+    "bash_syntax": "passed"
+  },
+  "not_run": [
+    "CUDA dependency installation",
+    "checkpoint architecture load on original FlashAttention",
+    "policy inference",
+    "automated reference battles",
+    "human challenge",
+    "HTML replay browser playback",
+    "local PC installation"
+  ],
+  "performance": {
+    "completed_battles": 0,
+    "wins": null,
+    "losses": null,
+    "win_rate": null,
+    "latency_ms": null,
+    "elo": null,
+    "gxe": null
+  },
+  "warnings": [
+    "5 upstream competitive teams use Tera Blast and are illegal under pinned Gen 9 OU rules; excluded without changing team moves or rules",
+    "legacy Gym emits NumPy 2 warning on import; actual battle compatibility not yet established",
+    "CUDA/FlashAttention stack requires verification on target hardware",
+    "No model weights or team files redistributed"
+  ]
+}

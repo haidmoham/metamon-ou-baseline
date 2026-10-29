@@ -1,0 +1,16 @@
+{
+  "model": {
+    "repo_id": "jakegrigsby/metamon",
+    "revision": "ac8e88e7da8dc2a2b85176d88f81fd8854b1445b",
+    "filename": "kakuna/ckpts/policy_weights/policy_epoch_34.pt",
+    "sha256": "7e7474d5b2ec6624afdeb29a7cf1dc5c84817d5aee8ec39c1d35a153b18df26c",
+    "size_bytes": 571581627
+  },
+  "teams": {
+    "repo_id": "jakegrigsby/metamon-teams",
+    "revision": "bff785c80a06273faee1c675d368948f5dd65d44",
+    "filename": "competitive/gen9ou.tar.gz",
+    "sha256": "ab8ede8d06e0247b9c3b7385823c3fcb5b2d5615162072736197005a90770f11",
+    "size_bytes": 4299
+  }
+}
